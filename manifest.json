@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Makes both green and blue concrete a solid colour to so its easier to edit out",
+        "name": "§9TheAlienDoctor's§e Greenscreen pack §4(V1.0.0)",
+        "uuid": "3eaf7887-3c66-4a67-85fb-582212d3bcd3",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 17, 0]
+    },
+    "modules": [
+        {
+            "description": "Makes both green and blue concrete a solid colour to so its easier to edit out",
+            "type": "resources",
+            "uuid": "7bce060d-6a19-40dc-a012-5e31722332c3",
+            "version": [1, 0, 0]
+        }
+    ]
+}
