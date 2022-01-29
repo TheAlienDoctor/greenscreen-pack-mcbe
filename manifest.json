@@ -1,9 +1,9 @@
 {
     "format_version": 2,
     "header": {
-        "description": "§9Turns certain already green blocks completly green §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.1",
+        "description": "§9Make's certain blocks completely green or blue for your greenscreen needs §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.1",
         "name": "§1Alien's §eGreenscreen pack §4(V1.0.1)",
-        "uuid": "e916e7b3-a1bd-42bf-8228-a6163c7a2d09",
+        "uuid": "3eaf7887-3c66-4a67-85fb-582212d3bcd3",
         "version": [
             1,
             0,
@@ -17,9 +17,9 @@
     },
     "modules": [
         {
-            "description": "§9Turns certain already green blocks completly green §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.1",
+            "description": "§9Make's certain blocks completely green or blue for your greenscreen needs §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.1",
             "type": "resources",
-            "uuid": "76366be7-a801-4313-aeeb-b4e0fa60d89d",
+            "uuid": "7bce060d-6a19-40dc-a012-5e31722332c3",
             "version": [
                 1,
                 0,
