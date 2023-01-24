@@ -1,13 +1,13 @@
 {
     "format_version": 2,
     "header": {
-        "description": "§9Make's certain blocks completely green or blue for your greenscreen needs §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.1",
-        "name": "§1Alien's §eGreenscreen pack §4(V1.0.1)",
+		"description": "§rMakes concrete a solid colour, for your greenscreen needs. | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.2 §r",
+		"name": "§1§lAlien's§r §eGreenscreen pack §4(RP-V1.0.0)§r",
         "uuid": "3eaf7887-3c66-4a67-85fb-582212d3bcd3",
         "version": [
             1,
             0,
-            1
+            2
         ],
         "min_engine_version": [
             1,
@@ -17,14 +17,21 @@
     },
     "modules": [
         {
-            "description": "§9Make's certain blocks completely green or blue for your greenscreen needs §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.1",
+		"description": "§rMakes concrete a solid colour, for your greenscreen needs. | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.2 §r",
             "type": "resources",
             "uuid": "7bce060d-6a19-40dc-a012-5e31722332c3",
             "version": [
                 1,
                 0,
-                1
+                2
             ]
         }
-    ]
+    ],
+    "metadata": {
+		"authors": [
+			"TheAlienDoctor"
+		],
+		"license": "BSD 3-Clause License",
+		"url": "https://TheAlienDoctor.com"
+	}
 }
